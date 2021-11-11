@@ -1,6 +1,6 @@
 ## Hello
 
-<img src="https://image.chenpipi.cn/weixin/avatar.jpg" width="200" height="200">
+<img src="https://image.chenpipi.cn/weixin/avatar.jpg" alt="陈皮皮" width="200">
 
 🐱 我叫「陈皮皮」，常用 id 是「ifaswind」。
 
@@ -12,8 +12,8 @@
 
 Gitee：[https://gitee.com/ifaswind](https://gitee.com/ifaswind)
 
-公众号：菜鸟小栈
+公众号：[菜鸟小栈](https://image.chenpipi.cn/weixin/official-account.png)
 
-![公众号](https://image.chenpipi.cn/weixin/official-account.png)
+[![公众号](https://image.chenpipi.cn/weixin/official-account.png)](https://image.chenpipi.cn/weixin/official-account.png)
 
 ---
