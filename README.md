@@ -1,6 +1,6 @@
 ## Hello
 
-<img src="https://image.chenpipi.cn/weixin/avatar.jpg" alt="陈皮皮" width="200">
+<img src="https://avatars.githubusercontent.com/u/5007047" alt="陈皮皮" width="200">
 
 🐱 我叫「陈皮皮」，常用 id 是「ifaswind」。
 
