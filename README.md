@@ -8,12 +8,10 @@
 
 ---
 
-个人博客：[https://chenpipi.cn](https://chenpipi.cn)
-
 Gitee：[https://gitee.com/ifaswind](https://gitee.com/ifaswind)
 
-公众号：[菜鸟小栈](https://image.chenpipi.cn/weixin/official-account.png)
+博客：[https://chenpipi.cn](https://chenpipi.cn)
 
-[![公众号](https://image.chenpipi.cn/weixin/official-account.png)](https://image.chenpipi.cn/weixin/official-account.png)
+公众号：[菜鸟小栈](https://image.chenpipi.cn/weixin/official-account.png)
 
 ---
