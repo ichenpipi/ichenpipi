@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/5007047" alt="陈皮皮" width="200">
 
-🐱 Hi，我是**陈皮皮（ifaswind）。
+🐱 Hi，我是**陈皮皮（ifaswind）**。
 
 🔧 *不用紧张，像我们做开发的随身带个扳手很正常。*
 
