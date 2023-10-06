@@ -10,7 +10,7 @@
 
 昵称：陈皮皮
 
-用户名：`ifaswind/ichenpipi`
+用户名：`ichenpipi / ifaswind`
 
 职业：游戏客户端开发
 
@@ -24,8 +24,8 @@
 
 博客：[https://chenpipi.cn](https://chenpipi.cn)
 
-Gitee：[https://gitee.com/ifaswind](https://gitee.com/ifaswind)
+GitHub：[https://github.com/ichenpipi](https://github.com/ichenpipi) / [https://github.com/ifaswind](https://github.com/ichenpipi)
 
-GitHub：[https://github.com/ifaswind](https://github.com/ifaswind)
+Gitee：[https://gitee.com/ichenpipi](https://gitee.com/ichenpipi) / [https://gitee.com/ifaswind](https://gitee.com/ichenpipi)
 
 公众号：[菜鸟小栈](https://image.chenpipi.cn/weixin/official-account.png)
