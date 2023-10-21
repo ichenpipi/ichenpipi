@@ -10,7 +10,7 @@
 
 昵称：陈皮皮
 
-用户名：`ichenpipi` / `ifaswind`
+用户名：`ichenpipi`/`ifaswind`
 
 职业：游戏客户端开发
 
