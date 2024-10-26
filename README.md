@@ -24,6 +24,4 @@ GitHub：[https://github.com/ichenpipi](https://github.com/ichenpipi)
 
 Gitee：[https://gitee.com/ichenpipi](https://gitee.com/ichenpipi)
 
-博客：[https://chenpipi.cn](https://chenpipi.cn)
-
-公众号：[菜鸟小栈](https://image.chenpipi.cn/weixin/official-account.png)
+Blog：[https://chenpipi.cn](https://chenpipi.cn)
